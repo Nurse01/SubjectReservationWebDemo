@@ -2,7 +2,8 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web Nurse
+      SIT Subject Reservation Web Nurse Warathaya Rattachai test2 <br>
+      Netlify
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
